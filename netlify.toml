@@ -7,8 +7,3 @@
   [headers.values]
     Content-Type = "application/manifest+json"
     Access-Control-Allow-Origin = "*"
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
